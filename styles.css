@@ -1,0 +1,32 @@
+/* 
+#tlacitko_prace_id {
+    background: #3498db;
+    width: 180px;
+    padding: 4px 0;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    border-radius: 3px;
+}
+#tlacitko_prace_id p {
+    font-family: 'Roboto';
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+    user-select: none;
+}
+#tlacitko_prace_id:hover {
+    cursor: pointer;
+}
+#tlacitko_prace_id:after {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 10%;
+    border-radius: 50%;
+    background-color: #927608;
+    opacity: 0.4;
+    bottom: -30px;
+} */
